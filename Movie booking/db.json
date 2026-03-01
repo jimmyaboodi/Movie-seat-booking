@@ -1,0 +1,14 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "Title": "Fast and furious 6",
+      "Price": 100
+    },
+    {
+      "id": "2",
+      "Title": "Doctor Strange",
+      "Price": 120
+    }
+  ]
+}
